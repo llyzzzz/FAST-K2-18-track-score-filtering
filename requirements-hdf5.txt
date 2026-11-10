@@ -1,0 +1,4 @@
+-r requirements-score.txt
+h5py==3.12.1
+# BLISS, GPU/CUDA and any HDF5 compression filters require the server environment.
+# This file alone does not enable an end-to-end raw-data reproduction.

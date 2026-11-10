@@ -1,0 +1,22 @@
+{
+  "epoch": "20250509",
+  "science_beams": {
+    "M01": "inputs/20250509/science/K2-18b_M01.h5",
+    "M08": "inputs/20250509/science/K2-18b_M08.h5",
+    "M10": "inputs/20250509/science/K2-18b_M10.h5",
+    "M12": "inputs/20250509/science/K2-18b_M12.h5",
+    "M14": "inputs/20250509/science/K2-18b_M14.h5",
+    "M16": "inputs/20250509/science/K2-18b_M16.h5",
+    "M18": "inputs/20250509/science/K2-18b_M18.h5"
+  },
+  "injection_m01": "inputs/20250509/injection/K2-18b_M01.h5",
+  "science_candidates": "inputs/20250509/science_track_scores.csv",
+  "injection_candidates": "inputs/20250509/injection_track_scores_one-bin.csv",
+  "injections": "inputs/20250509/injection_log.csv",
+  "raw_baseline_dir": "inputs/20250509/raw_frozen",
+  "input_review": {
+    "science_inputs_are_uninjected": false,
+    "upstream_selection_status": "pending",
+    "evidence": []
+  }
+}

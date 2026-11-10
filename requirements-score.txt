@@ -1,0 +1,6 @@
+# Python packages recorded in the archived model-fitting environment.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.7.2
+hdbscan==0.8.40
